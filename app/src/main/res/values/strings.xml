@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Black_Jack_App</string>
+    <string name="all_in">All In</string>
+    <string name="bet">BET!</string>
+    <string name="double_down">Double Down</string>
+    <string name="stand">STAND</string>
+    <string name="hit">HIT</string>
+    <string name="you">You:</string>
+    <string name="dealer">Dealer:</string>
+    <string name="stop">STOP</string>
+    <string name="yes">Yes</string>
+    <string name="quit">Are you sure you want to quit?</string>
+    <string name="no">No</string>
+    <string name="_50_">50</string>
+    <string name="_100_">100</string>
+    <string name="_10_">10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
